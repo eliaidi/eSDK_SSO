@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8"/>
+	<classpathentry kind="lib" path="D:/01_RD/01_src/eSDK_Solution_V200R001/trunk/eSDK_Platform_V200R001/Server/open_src/log4j-1.2.17.jar"/>
+	<classpathentry combineaccessrules="false" kind="src" path="/esdk_sso_interface"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
