@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src/main/resources"/>
+	<classpathentry kind="src" path="conf"/>
+	<classpathentry kind="src" path="src/main/java"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry combineaccessrules="false" kind="src" path="/esdk_platform_common"/>
+	<classpathentry combineaccessrules="false" kind="src" path="/esdk_sso_interface"/>
+	<classpathentry combineaccessrules="false" kind="src" path="/esdk_platform_interface"/>
+	<classpathentry kind="lib" path="D:/01_RD/01_src/eSDK_Solution_V200R001/trunk/eSDK_Platform_V200R001/Server/open_src/commons-digester3-3.2.jar"/>
+	<classpathentry kind="lib" path="D:/01_RD/01_src/eSDK_Solution_V200R001/trunk/eSDK_Platform_V200R001/Server/open_src/commons-io-2.4.jar"/>
+	<classpathentry kind="lib" path="D:/01_RD/01_src/eSDK_Solution_V200R001/trunk/eSDK_Platform_V200R001/Server/open_src/dom4j-1.6.1.jar"/>
+	<classpathentry kind="lib" path="D:/01_RD/01_src/eSDK_Solution_V200R001/trunk/eSDK_Platform_V200R001/Server/open_src/log4j-1.2.17.jar"/>
+	<classpathentry kind="lib" path="D:/01_RD/01_src/eSDK_Solution_V200R001/trunk/eSDK_Platform_V200R001/Server/open_src/cxf-3.0.7/commons-logging-1.1.1.jar"/>
+	<classpathentry kind="lib" path="D:/01_RD/01_src/eSDK_Solution_V200R001/trunk/eSDK_Platform_V200R001/Server/open_src/restlet-3.0/com.fasterxml.jackson.annotations.jar"/>
+	<classpathentry kind="lib" path="D:/01_RD/01_src/eSDK_Solution_V200R001/trunk/eSDK_Platform_V200R001/Server/open_src/restlet-3.0/com.fasterxml.jackson.core.jar"/>
+	<classpathentry kind="lib" path="D:/01_RD/01_src/eSDK_Solution_V200R001/trunk/eSDK_Platform_V200R001/Server/open_src/restlet-3.0/com.fasterxml.jackson.csv.jar"/>
+	<classpathentry kind="lib" path="D:/01_RD/01_src/eSDK_Solution_V200R001/trunk/eSDK_Platform_V200R001/Server/open_src/restlet-3.0/com.fasterxml.jackson.databind.jar"/>
+	<classpathentry kind="lib" path="D:/01_RD/01_src/eSDK_Solution_V200R001/trunk/eSDK_Platform_V200R001/Server/open_src/restlet-3.0/com.fasterxml.jackson.jaxb.jar"/>
+	<classpathentry kind="lib" path="D:/01_RD/01_src/eSDK_Solution_V200R001/trunk/eSDK_Platform_V200R001/Server/open_src/restlet-3.0/com.fasterxml.jackson.smile.jar"/>
+	<classpathentry kind="lib" path="D:/01_RD/01_src/eSDK_Solution_V200R001/trunk/eSDK_Platform_V200R001/Server/open_src/restlet-3.0/com.fasterxml.jackson.xml.jar"/>
+	<classpathentry kind="lib" path="D:/01_RD/01_src/eSDK_Solution_V200R001/trunk/eSDK_Platform_V200R001/Server/open_src/restlet-3.0/com.fasterxml.jackson.yaml.jar"/>
+	<classpathentry kind="lib" path="D:/01_RD/01_src/eSDK_Solution_V200R001/trunk/eSDK_Platform_V200R001/Server/open_src/gson-2.6.2.jar"/>
+	<classpathentry kind="lib" path="D:/01_jar/servlet-api.jar"/>
+	<classpathentry kind="lib" path="D:/01_RD/01_src/eSDK_Solution_V200R001/trunk/eSDK_Platform_V200R001/Server/open_src/spring-4.1.6/spring-beans-4.1.6.RELEASE.jar"/>
+	<classpathentry kind="lib" path="D:/01_RD/01_src/eSDK_Solution_V200R001/trunk/eSDK_Platform_V200R001/Server/open_src/spring-4.1.6/spring-context-4.1.6.RELEASE.jar"/>
+	<classpathentry kind="lib" path="D:/01_RD/01_src/eSDK_Solution_V200R001/trunk/eSDK_Platform_V200R001/Server/open_src/spring-4.1.6/spring-core-4.1.6.RELEASE.jar"/>
+	<classpathentry kind="lib" path="E:/SSO/sso_impl_demo.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>

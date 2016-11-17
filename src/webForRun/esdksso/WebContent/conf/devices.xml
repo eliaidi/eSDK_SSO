@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<devices> 
+  <device default="false"> 
+    <deviceId>EC_APP_SERVER</deviceId>  
+    <deviceName>EC_APP_SERVER</deviceName>  
+    <serviceAccessPoint>https://172.22.9.168:8443/</serviceAccessPoint>  
+    <loginUser>BMU172.22.9.168</loginUser>  
+    <loginPwd>1qaz@WSX3edc$RFV</loginPwd>  
+    <deviceType>AppServerV3R1C00</deviceType>  
+    <deviceVersion>V300R001C00</deviceVersion>  
+    <connMode>0</connMode>  
+    <reserver1>0</reserver1>  
+    <reserver2>0</reserver2> 
+  </device>  
+  <device default="false"> 
+    <deviceId>EC_BMU</deviceId>  
+    <deviceName>EC_BMU</deviceName>  
+    <serviceAccessPoint>https://172.22.9.168:18443/</serviceAccessPoint>
+    <loginUser>BMU172.22.9.168</loginUser>
+    <loginPwd>1qaz@WSX3edc$RFV</loginPwd> 
+    <deviceType>BMUV3R1C00</deviceType>  
+    <deviceVersion>V300R001C00</deviceVersion>  
+    <connMode>0</connMode>  
+    <reserver1>0</reserver1>  
+    <reserver2>0</reserver2> 
+  </device>  
+  <device default="false"> 
+    <deviceId>EC_EServer</deviceId>  
+    <deviceName>EC_EServer</deviceName>  
+    <serviceAccessPoint>https://172.22.9.168:18443/</serviceAccessPoint>  
+    <loginUser>eSDKServer</loginUser>  
+    <loginPwd>1qaz@WSX3edc$RFV</loginPwd>  
+    <deviceType>EServerV3R1C00</deviceType>  
+    <deviceVersion>V300R001C00</deviceVersion>  
+    <connMode>0</connMode>  
+    <reserver1>0</reserver1>  
+    <reserver2>0</reserver2> 
+  </device> 
+
+  <device> 
+    <deviceId>EC_MultiApp_AppServer</deviceId>  
+    <deviceName>EC_MultiApp_AppServer</deviceName>  
+    <serviceAccessPoint>https://10.177.107.36:8443/</serviceAccessPoint>  
+    <loginUser>exAppAgent36</loginUser>  
+    <loginPwd>Change_Me</loginPwd>  
+    <deviceType>AppServerV3R1C00</deviceType>  
+    <deviceVersion>V300R001C00</deviceVersion>  
+    <connMode>0</connMode>  
+    <reserver1>3</reserver1>  
+    <reserver2>1</reserver2> 
+  </device>  
+  <device> 
+	<deviceId>EC_MultiApp_Eserver</deviceId> 
+	<deviceName>EC_MultiApp_Eserver</deviceName> 
+	<serviceAccessPoint>https://10.177.107.44:18543/</serviceAccessPoint> 
+	<loginUser>eSDKServer</loginUser> 
+	<loginPwd>1qaz@WSX1qaz@WSX</loginPwd> 
+	<deviceType>eServerV3R1C00</deviceType> 
+	<deviceVersion>V300R001C00</deviceVersion> 
+	<connMode>0</connMode> 
+	<reserver1>3</reserver1> 
+	<reserver2>1</reserver2>
+ </device> 
+</devices>

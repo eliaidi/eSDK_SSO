@@ -1,0 +1,26 @@
+ext.zipFileName = 'esdksvr_sso_base'
+
+ext.zipProjectDirs = ['esdk_sso_base', 'esdk_sso_interface']
+
+addDependentProject(project, "compile", "esdk_platform_common")
+addDependentProject(project, "compile", "esdk_platform_interface")
+addDependentProject(project, "compile", "esdk_sso_interface")
+
+dependencies {
+	compile ':commons-io:2.4'
+	compile ':commons-digester3:3.2'
+	compile ':commons-logging:1.1.1'
+	compile ':dom4j:1.6.1'
+	compile ':gson:2.6.2'
+	compile ':log4j:1.2.17'
+	compile ':servlet-api:'
+	compile ':org.restlet.ext.json:'
+	compile ':com.fasterxml.jackson.annotations:'
+	compile ':com.fasterxml.jackson.core:'
+	compile ':com.fasterxml.jackson.csv:'
+	compile ':com.fasterxml.jackson.databind:'
+	compile ':com.fasterxml.jackson.jaxb:'
+	compile ':com.fasterxml.jackson.smile:'
+	compile ':com.fasterxml.jackson.xml:'
+	compile ':com.fasterxml.jackson.yaml:'
+}
